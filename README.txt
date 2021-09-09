@@ -1,6 +1,6 @@
 <h1 align="center">FACE MASK DETECTION SYSTEM USING DEEP LEARNING METHODOLOGY</h1>
 
-<div align= "center"><p align="center"><img src="https://media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-08/RTR4FEOW.jpg%20Walmart%20Video%20Games%2009AUG19.jpg?itok=2ncLU2t3" width="700" height="400"></p>
+<div align= "center"><p align="center"><img src="https://i.ytimg.com/vi/JRmA9Baip0o/maxresdefault.jpg" width="700" height="400"></p>
   <h4>Face Mask Detection system built with Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images </h4>
 </div>
 
